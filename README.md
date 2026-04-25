@@ -1,2 +1,2 @@
 # Infinitx-Sky
-A tech brand 
+Tech
